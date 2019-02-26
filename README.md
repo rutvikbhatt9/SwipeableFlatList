@@ -1,6 +1,8 @@
 # SwipeableFlatList
 
 This project is use **SwipeableFlatList** from **react-native**.
+You can find the detail description of the project in my article about this project.
+[https://medium.com/@rutvikbhatt9/how-to-use-swipeableflatlist-new-react-native-experimental-component-cb792b1c7b0a](https://medium.com/@rutvikbhatt9/how-to-use-swipeableflatlist-new-react-native-experimental-component-cb792b1c7b0a)
 
 ![SwipeableFlatList](screenshot/SwipeablFlatList.gif)
 
